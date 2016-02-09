@@ -1,0 +1,14 @@
+{
+  "name": "asynchexample",
+  "version": "1.0.0",
+  "description": "testing asynch commmand",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "M.Whiteside",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2"
+  }
+}
